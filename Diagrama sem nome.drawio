@@ -76,6 +76,21 @@
             <mxPoint x="620" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UQuMbA1B8VdiVRYW4ytw-21" value="Auction Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UQuMbA1B8VdiVRYW4ytw-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQuMbA1B8VdiVRYW4ytw-21" target="UQuMbA1B8VdiVRYW4ytw-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="260" as="sourcePoint" />
+            <mxPoint x="890" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQuMbA1B8VdiVRYW4ytw-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="950" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQuMbA1B8VdiVRYW4ytw-24" value="Auction Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
