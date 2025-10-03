@@ -235,7 +235,7 @@
         <mxCell id="GqhOzJdQPD97Ki2fps7f-24" value="Authentication Pages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="668" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GqhOzJdQPD97Ki2fps7f-25" value="Register/ Sign Up&lt;br&gt;(UI9)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GqhOzJdQPD97Ki2fps7f-25" value="Login&lt;br&gt;(UI9)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GqhOzJdQPD97Ki2fps7f-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GqhOzJdQPD97Ki2fps7f-25" target="UQuMbA1B8VdiVRYW4ytw-8">
