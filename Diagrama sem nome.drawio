@@ -214,7 +214,7 @@
             <mxPoint x="770" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GqhOzJdQPD97Ki2fps7f-16" value="Sign In&lt;br&gt;(Page Element of Home)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GqhOzJdQPD97Ki2fps7f-16" value="Login&lt;br&gt;(Page Element of Home)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="340" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GqhOzJdQPD97Ki2fps7f-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GqhOzJdQPD97Ki2fps7f-16" target="UQuMbA1B8VdiVRYW4ytw-8">
