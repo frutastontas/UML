@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GqhOzJdQPD97Ki2fps7f-4" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="800" y="40" width="370" height="440" as="geometry" />
+          <mxGeometry x="800" y="40" width="380" height="480" as="geometry" />
         </mxCell>
         <mxCell id="GqhOzJdQPD97Ki2fps7f-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="450" y="-70" width="270" height="270" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="540" y="657.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UQuMbA1B8VdiVRYW4ytw-31" value="Auction Related Pages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="827" y="450" width="150" height="30" as="geometry" />
+          <mxGeometry x="1040" y="490" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UQuMbA1B8VdiVRYW4ytw-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="UQuMbA1B8VdiVRYW4ytw-23" target="UQuMbA1B8VdiVRYW4ytw-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -222,6 +222,9 @@
             <mxPoint x="510" y="350" as="sourcePoint" />
             <mxPoint x="560" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GqhOzJdQPD97Ki2fps7f-18" value="View Category&lt;br&gt;(UI17)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
